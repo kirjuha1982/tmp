@@ -1,0 +1,16 @@
+.upload-image-uploader{
+  display: none;
+}
+.remove-uploading{
+margin-left: 10px;
+}
+
+.remove-uploading:hover{
+  cursor: pointer;
+  opacity: 0.9;
+}
+
+#song_list .form-control{
+  width: 60%;
+  height: 1.8em;
+}
